@@ -1,0 +1,54 @@
+h3{
+	font-size: 25px;
+}
+.head1{
+	color: teal;
+}
+
+#heading1{
+	color: violet;  
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.box{
+	 width: 50%;
+	 height: 200px;
+	 background-color: cyan;
+}
+
+.box1{
+	 width: 50%;
+	 height: 200px;
+	 background-color: rgba(00,00,00,0.5);
+}
+
+.header{
+	 /*height: 100px;*/
+	 min-height: 10px;
+	 background-color: cyan;
+}
+
+.container{
+	border: 5px solid yellow;
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 70%;
+	min-height: 200px;
+	background-color: blue;
+} 
+.contact{
+	float: right;
+	width: 25%;
+	min-height: 200px;
+	background-color: grey;
+}
+.footer{
+	/*clear: both;*/
+	min-height: 100px;
+	background-color: black;
+}
